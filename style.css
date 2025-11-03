@@ -87,7 +87,7 @@ button {
 }
 
 button:hover {
-    background-color: var(--Cream);
+    background-color: var(--DarkGreen);
 }
 
 button:active {
