@@ -122,6 +122,6 @@ button:active {
         width: 100%;
         border-top-left-radius: 20px;
         border-top-right-radius: 20px;
-        border-bottom-left-radius: 0px;
+        border-bottom-left-radius: 0px ;
        }
   }
